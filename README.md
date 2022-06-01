@@ -1,0 +1,3 @@
+# Lab07Maze
+Seventh lab in CS 235, recursive algorithm that solves 3D mazes of any size, using dynamic 3D array.
+"Two SCUBA diving buddies have encountered a large, box-shaped storage facility inside the hull of the Heian Maru, a 512' submarine tender lying on the bottom of Truk Lagoon at 108'. The storage facility is composed of cells, some of which can be entered and some which cannot. The only exterior walls that are missing are on the front of the storage facility in the upper left corner, and on the rear of the storage facility in the lower right corner. The divers wish to determine a path through the storage facility. Use recursion to find a path through the maze or to prove that there is no path."
